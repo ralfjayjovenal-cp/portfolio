@@ -8,7 +8,7 @@
 
 # To deploy to github-pages
     yarn run build
-    git add dist -f
+    cd dist
     git commit 
-    git subtree push --prefix dist origin gh-pages
-    git reset HEAD~
+    git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
+    cd -
