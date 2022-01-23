@@ -1,0 +1,42 @@
+Arguments: 
+  /usr/local/bin/node /home/coreproc/.yarn/bin/yarn.js add -D tailwindcss postcss autoprefixer
+
+PATH: 
+  /home/coreproc/.yarn/bin:/home/coreproc/.config/yarn/global/node_modules/.bin:/home/coreproc/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/coreproc/.config/composer/vendor/bin:/home/coreproc/.yarn/bin:/home/coreproc/.config/yarn/global/node_modules/.bin:/home/coreproc/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+
+Yarn version: 
+  1.22.0
+
+Node version: 
+  14.4.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: read ECONNRESET
+      at TLSWrap.onStreamRead (internal/stream_base_commons.js:205:27)
+
+npm manifest: 
+  {
+    "name": "portfolio-web-vue",
+    "version": "0.0.0",
+    "scripts": {
+      "dev": "vite",
+      "build": "vite build",
+      "preview": "vite preview"
+    },
+    "dependencies": {
+      "vue": "^3.2.23"
+    },
+    "devDependencies": {
+      "@vitejs/plugin-vue": "^1.10.2",
+      "vite": "^2.7.0"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

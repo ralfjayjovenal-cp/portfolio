@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        @apply text-gray-800 font-fira-sans bg-gray-50;
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+
+    html {
+        max-width: 100%;
+        scroll-behavior: smooth;
+        overflow-x: hidden;
+    }
+
+    @font-face {
+        font-family: 'Fira sans';
+        font-weight: 400;
+        src: url('../fonts/FiraSans-Regular.woff') format('woff');
+    }
+    @font-face {
+        font-family: 'Fira sans';
+        font-weight: 500;
+        src: url('../fonts/FiraSans-Medium.woff') format('woff');
+    }
+    @font-face {
+        font-family: 'Fira sans';
+        font-weight: 500;
+        src: url('../fonts/FiraSans-Medium.woff') format('woff');
+    }
+    @font-face {
+        font-family: 'Fira sans';
+        font-weight: 600;
+        src: url('../fonts/FiraSans-SemiBold.woff') format('woff');
+    }
+    @font-face {
+        font-family: 'Fira sans';
+        font-weight: 700;
+        src: url('../fonts/FiraSans-Bold.woff') format('woff');
+    }
+    @font-face {
+        font-family: 'Fira sans';
+        font-weight: 800;
+        src: url('../fonts/FiraSans-ExtraBold.woff') format('woff');
+    }
+    @font-face {
+        font-family: 'Fira sans';
+        font-weight: 900;
+        src: url('../fonts/FiraSans-Black.woff') format('woff');
+    }
+}
