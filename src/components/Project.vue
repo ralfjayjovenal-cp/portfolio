@@ -4,7 +4,7 @@
   <section class="relative py-20 overflow-hidden">
     <div class="max-w-7xl px-10 mx-auto sm:text-center">
       <p class="mb-4 text-3xl text-indigo-600 font-bold leading-tight tracking-tight sm:text-4xl font-heading" id="projects">PROJECTS</p>
-      <p class="mb-4 font-medium text-xl tracking-tight text-gray-800 xl:mb-6">Some of my works during my free time</p>
+      <p class="mb-4 font-medium text-xl tracking-tight text-gray-800 xl:mb-6">Some of my works that I've made during my free time</p>
 
       <div class="grid grid-cols-1 gap-10 sm:grid-cols-2 lg:grid-cols-2">
         <div class="w-full border border-gray-200 rounded-lg shadow-sm">
