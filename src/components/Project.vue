@@ -16,7 +16,7 @@
             </p></div>
 
           <div class="flex border-t border-gray-200 divide-x divide-gray-200">
-            <a href="https://purego.herokuapp.com/" target="_blank" class="flex-1 block p-5 text-center text-gray-800 transition duration-200 ease-out hover:bg-indigo-600 hover:text-white">
+            <a href="https://rjovenal.gitlab.io/capstone1_fv/" target="_blank" class="flex-1 block p-5 text-center text-gray-800 transition duration-200 ease-out hover:bg-indigo-600 hover:text-white">
               Visit
             </a>
           </div>
@@ -30,7 +30,21 @@
             </p></div>
 
           <div class="flex border-t border-gray-200 divide-x divide-gray-200">
-            <a href="https://rjovenal.gitlab.io/capstone1_fv/" target="_blank" class="flex-1 block p-5 text-center text-gray-800 transition duration-200 ease-out hover:bg-indigo-600 hover:text-white">
+            <a href="https://purego.herokuapp.com/" target="_blank" class="flex-1 block p-5 text-center text-gray-800 transition duration-200 ease-out hover:bg-indigo-600 hover:text-white">
+              Visit
+            </a>
+          </div>
+        </div>
+        <div class="w-full border border-gray-200 rounded-lg shadow-sm">
+
+          <div class="flex flex-col items-center justify-center p-10">
+            <img class="w-16 h-16 mb-6 rounded-full" src="/images/logos/notebook.png">
+            <h2 class="text-lg font-medium text-indigo-500">Memotrack</h2>
+            <p class="text-gray-800">A web application that saves your important memories
+            </p></div>
+
+          <div class="flex border-t border-gray-200 divide-x divide-gray-200">
+            <a href="https://memotrack.herokuapp.com/" target="_blank" class="flex-1 block p-5 text-center text-gray-800 transition duration-200 ease-out hover:bg-indigo-600 hover:text-white">
               Visit
             </a>
           </div>
